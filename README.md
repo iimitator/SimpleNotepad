@@ -43,6 +43,10 @@ A lightweight modern Notepad alternative built in **C# (.NET 8)** featuring:
 
 ➡ [![Download SimpleNotepad](https://img.shields.io/github/v/release/CliftDev/SimpleNotepad?label=Download%20Notepad&style=for-the-badge)](https://github.com/iimitator/SimpleNotepad/releases/latest)
 
+![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=flat-square)
+![License](https://img.shields.io/github/license/iimitator/SimpleNotepad?style=flat-square)
+![Framework](https://img.shields.io/badge/.NET-8.0-blueviolet?style=flat-square)
+
 
 When published, this app will run as a standalone Windows executable.
 
