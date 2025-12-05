@@ -1,5 +1,7 @@
 # 📝 SimpleNotepad
 
+[![Download SimpleNotepad](https://img.shields.io/github/v/release/iimitator/SimpleNotepad?label=Download%20SimpleNotepad&style=for-the-badge)](https://github.com/iimitator/SimpleNotepad/releases/latest)
+
 A lightweight modern Notepad alternative built in **C# (.NET 8)** featuring:
 
 ✔ Custom UI Themes  
